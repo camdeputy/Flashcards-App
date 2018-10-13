@@ -1,22 +1,13 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671
-{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-\margl1440\margr1440\vieww28080\viewh15080\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
+## FLASHCARDS_APP
 
-\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-## FLASHCARDS_APP\
-\
-### App Description\
+### App Description
 A simple flashcards app that allows the user to tap on a question and receive the answer.\
-\
-### App Walk-though\
-\
-<img src="http://recordit.co/4FAwxSeurO" width=200><br>\
-\
-## Required\
+
+### App Walk-through
+
+<img src="http://g.recordit.co/t9micNiZTR.gif" width=200><br>
+
+## Required
 - [x] Create New Project in Xcode\
 - [x] Add a view for the front side of the flashcard to display the question\
 - [x] Add a view for the back side of the flashcard to display the answer\
